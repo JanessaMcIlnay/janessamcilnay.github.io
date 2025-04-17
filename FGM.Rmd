@@ -30,7 +30,7 @@ FGM is a violation of human rights. It causes extreme pain and irreversible dama
 
 ## Data
 
-The data analyzed for this project was collected by the unicef which aims to improve and protect the rights of children worldwide. The data was last updated in March 2024 and includes women aged 15-49.
+The data analyzed for this project was collected by the [unicef](https://data.unicef.org/topic/child-protection/female-genital-mutilation/) which aims to improve and protect the rights of children worldwide. The data was last updated in March 2024 and includes women aged 15-49.
 
 ```{r load_libraries, echo=TRUE, message=FALSE}
 # Load necessary libraries
